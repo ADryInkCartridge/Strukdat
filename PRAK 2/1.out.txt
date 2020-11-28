@@ -1,0 +1,4 @@
+10 ada di index ke-10
+9832 ada di index ke-9829
+123 tidak ditemukan
+10 ada di index ke-10
